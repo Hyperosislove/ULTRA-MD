@@ -6,6 +6,13 @@ import syntaxError from 'syntax-error'
 import { fileURLToPath } from 'url'
 import { createRequire } from 'module'
 
+// =======================================
+// BOT DETAILS
+// Created by: ABUHURAIRAH
+// Bot Name: HURAIRAH MD
+// Contact: +923449412639
+// =======================================
+
 const __filename = fileURLToPath(import.meta.url)
 const __dirname = dirname(__filename)
 const require = createRequire(__dirname)
